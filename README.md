@@ -1,4 +1,5 @@
-## If the repo has any error send the message to <a href="https://t.me/MrTG_Coder">
+## If the repo has any error send the message to 
+<a href="https://t.me/MrTG_Coder">
   <img src="https://img.shields.io/badge/ᴏᴡɴᴇʀ-blue?logo=telegram" width="80">
 
 ## Credits
